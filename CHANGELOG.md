@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/batopa/eliminami/compare/v1.1.0...v1.1.1) (2022-01-28)
+
+
+### Bug Fixes
+
+* **#111:** ciaone ([43b824c](https://github.com/batopa/eliminami/commit/43b824c47e4a76d4a1ad803d4822987dd74898e1)), closes [#111](https://github.com/batopa/eliminami/issues/111)
+
 # [1.1.0](https://github.com/batopa/eliminami/compare/v1.0.1...v1.1.0) (2022-01-28)
 
 
