@@ -1,3 +1,12 @@
+## [1.0.1](https://github.com/batopa/eliminami/compare/v1.0.0...v1.0.1) (2022-01-28)
+
+
+### Bug Fixes
+
+* many things ([dbf4f12](https://github.com/batopa/eliminami/commit/dbf4f12d2dd12717477375461cefd121d6ab74cc))
+* stuff ([956c62b](https://github.com/batopa/eliminami/commit/956c62bccde8c37b566ff979a02596830d8db0b5))
+* use var ([3c36356](https://github.com/batopa/eliminami/commit/3c363561016c8d91c4af55a096e7165e03386b73))
+
 # 1.0.0 (2022-01-28)
 
 
