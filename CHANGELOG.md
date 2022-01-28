@@ -1,3 +1,15 @@
+# [2.1.0](https://github.com/batopa/eliminami/compare/v2.0.0...v2.1.0) (2022-01-28)
+
+
+### Bug Fixes
+
+* comment ([842dd02](https://github.com/batopa/eliminami/commit/842dd02431af70f32b31aa7767233123bdcf4c32))
+
+
+### Features
+
+* add message ([2a7d652](https://github.com/batopa/eliminami/commit/2a7d652f09a54a5796b2b99f8e5ab91effe6e7ca))
+
 # [2.0.0](https://github.com/batopa/eliminami/compare/v1.1.1...v2.0.0) (2022-01-28)
 
 
