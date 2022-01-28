@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/batopa/eliminami/compare/v1.0.1...v1.1.0) (2022-01-28)
+
+
+### Features
+
+* new workflow ([9c17ca1](https://github.com/batopa/eliminami/commit/9c17ca1c92c5b8663ba4eec8367b2e5565a62c6c))
+
 ## [1.0.1](https://github.com/batopa/eliminami/compare/v1.0.0...v1.0.1) (2022-01-28)
 
 
