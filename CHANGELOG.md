@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/batopa/eliminami/compare/v1.1.1...v2.0.0) (2022-01-28)
+
+
+### Features
+
+* x y z ([867f767](https://github.com/batopa/eliminami/commit/867f767933353ecb8143e7025279cae0eafa3e79))
+
+
+### BREAKING CHANGES
+
+* break all
+
 ## [1.1.1](https://github.com/batopa/eliminami/compare/v1.1.0...v1.1.1) (2022-01-28)
 
 
