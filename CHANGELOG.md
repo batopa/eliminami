@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/batopa/eliminami/compare/v2.2.0...v2.2.1) (2022-02-01)
+
+
+### Bug Fixes
+
+* missing hola ([1b59c30](https://github.com/batopa/eliminami/commit/1b59c3094de1d5c56195bbfec674af4bdf5d7500))
+
 # [2.2.0](https://github.com/batopa/eliminami/compare/v2.1.0...v2.2.0) (2022-02-01)
 
 
