@@ -1,3 +1,10 @@
+## [2.2.2](https://github.com/batopa/eliminami/compare/v2.2.1...v2.2.2) (2022-02-01)
+
+
+### Bug Fixes
+
+* do not break ci ([63244fa](https://github.com/batopa/eliminami/commit/63244fa32d0b93b1cc0f38ed47dc5f9e7835f2e5))
+
 ## [2.2.1](https://github.com/batopa/eliminami/compare/v2.2.0...v2.2.1) (2022-02-01)
 
 
