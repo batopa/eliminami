@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/batopa/eliminami/compare/v2.1.0...v2.2.0) (2022-02-01)
+
+
+### Features
+
+* **best practice:** introduce commit lint ([2d11900](https://github.com/batopa/eliminami/commit/2d11900bdbd4f956903a9214a47db70341d31910))
+
 # [2.1.0](https://github.com/batopa/eliminami/compare/v2.0.0...v2.1.0) (2022-01-28)
 
 
