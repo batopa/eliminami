@@ -12,7 +12,8 @@
     "url": "https://github.com/batopa/eliminami.git"
   },
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "prepare": "husky install"
   },
   "devDependencies": {
     "@commitlint/cli": "^16.1.0",
