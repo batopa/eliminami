@@ -1,3 +1,3 @@
 # Testing project
 
-This project is used for testing things.
+This project is used for testing things!
