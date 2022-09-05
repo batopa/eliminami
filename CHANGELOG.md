@@ -1,3 +1,22 @@
+# [3.0.0-beta.2](https://github.com/batopa/eliminami/compare/v3.0.0-beta.1...v3.0.0-beta.2) (2022-09-05)
+
+
+### Bug Fixes
+
+* fix something ([ce17bb3](https://github.com/batopa/eliminami/commit/ce17bb3609b475436e8f74decba922f8fd288b24))
+
+# [3.0.0-beta.1](https://github.com/batopa/eliminami/compare/v2.2.2...v3.0.0-beta.1) (2022-09-05)
+
+
+### Features
+
+* add readme ([a19ea7c](https://github.com/batopa/eliminami/commit/a19ea7c96741bc7e982fbe7a2a1731d9fa9c92be))
+
+
+### BREAKING CHANGES
+
+* readme
+
 ## [2.2.2](https://github.com/batopa/eliminami/compare/v2.2.1...v2.2.2) (2022-02-01)
 
 
