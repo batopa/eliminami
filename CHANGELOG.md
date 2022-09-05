@@ -1,3 +1,10 @@
+# [3.0.0-beta.2](https://github.com/batopa/eliminami/compare/v3.0.0-beta.1...v3.0.0-beta.2) (2022-09-05)
+
+
+### Bug Fixes
+
+* fix something ([ce17bb3](https://github.com/batopa/eliminami/commit/ce17bb3609b475436e8f74decba922f8fd288b24))
+
 # [3.0.0-beta.1](https://github.com/batopa/eliminami/compare/v2.2.2...v3.0.0-beta.1) (2022-09-05)
 
 
