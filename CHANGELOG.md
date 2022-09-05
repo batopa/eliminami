@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/batopa/eliminami/compare/v3.0.0...v3.1.0) (2022-09-05)
+
+
+### Features
+
+* improve doc ([b9603cc](https://github.com/batopa/eliminami/commit/b9603cc183b10c57c83df63598a01419db8248e2))
+
 # [3.0.0](https://github.com/batopa/eliminami/compare/v2.2.2...v3.0.0) (2022-09-05)
 
 
