@@ -1,3 +1,10 @@
+## [3.1.1](https://github.com/batopa/eliminami/compare/v3.1.0...v3.1.1) (2022-09-06)
+
+
+### Bug Fixes
+
+* duccio ([8863779](https://github.com/batopa/eliminami/commit/8863779d931b846c25e5ebcb7491721b7742ec91))
+
 # [3.1.0](https://github.com/batopa/eliminami/compare/v3.0.0...v3.1.0) (2022-09-05)
 
 
