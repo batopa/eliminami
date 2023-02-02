@@ -1,3 +1,10 @@
+## [3.1.2](https://github.com/batopa/eliminami/compare/v3.1.1...v3.1.2) (2023-02-02)
+
+
+### Bug Fixes
+
+* fix smarmella ([e271929](https://github.com/batopa/eliminami/commit/e271929575334e57f4b1e42efd0ebc134cd33b2b))
+
 ## [3.1.1](https://github.com/batopa/eliminami/compare/v3.1.0...v3.1.1) (2022-09-06)
 
 
