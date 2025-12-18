@@ -1,3 +1,10 @@
+## [3.1.3](https://github.com/batopa/eliminami/compare/v3.1.2...v3.1.3) (2025-12-18)
+
+
+### Bug Fixes
+
+* ci and publish ([6410517](https://github.com/batopa/eliminami/commit/6410517fe3d42ca911dc25224bc346d39c642c24))
+
 ## [3.1.2](https://github.com/batopa/eliminami/compare/v3.1.1...v3.1.2) (2023-02-02)
 
 
