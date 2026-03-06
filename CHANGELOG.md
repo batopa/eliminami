@@ -1,3 +1,10 @@
+# [3.2.0-beta.1](https://github.com/batopa/eliminami/compare/v3.1.3...v3.2.0-beta.1) (2026-03-06)
+
+
+### Features
+
+* apri tutto ([a1e3fef](https://github.com/batopa/eliminami/commit/a1e3fef7b7e3a5361364b1d9b2ac35e526e95ad7))
+
 ## [3.1.3](https://github.com/batopa/eliminami/compare/v3.1.2...v3.1.3) (2025-12-18)
 
 
