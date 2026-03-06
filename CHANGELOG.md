@@ -1,3 +1,15 @@
+# [4.0.0-beta.1](https://github.com/batopa/eliminami/compare/v3.2.0...v4.0.0-beta.1) (2026-03-06)
+
+
+### Features
+
+* stavolta andrà? ([c57f7e1](https://github.com/batopa/eliminami/commit/c57f7e196a634c5f300d276c78078759dccc007f))
+
+
+### BREAKING CHANGES
+
+* va mo là
+
 # [3.2.0](https://github.com/batopa/eliminami/compare/v3.1.3...v3.2.0) (2026-03-06)
 
 
